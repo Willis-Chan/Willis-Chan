@@ -1,5 +1,5 @@
 - 👋 Hi! I'm @Willis-Chan
-- :briefcase: Data Engineer based out of SF with expertise in healthcare
+- :briefcase: Data Engineer based out of SF working in healthcare
 - :heart: Love all things NBA, traveling, and cooking
 - 🌱 Always learning more about data warehousing and data infrastructure
 - 📫 Feel free to reach me at willistchan@gmail.com or https://www.linkedin.com/in/willischan/
